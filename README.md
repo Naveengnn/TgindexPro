@@ -24,7 +24,7 @@
 
 ## Deploy Guide
 #### Easy Way:
-[![Run on repl.it](https://repl.it/badge/github/Rayanfer32/TgindexPro)](https://repl.it/github/Rayanfer32/TgindexPro}&ref=button)
+[![Run on repl.it](https://repl.it/badge/github/Naveengnn/TgindexPro)](https://repl.it/github.com/Naveengnn/TgindexPro}&ref=button)
 
 #### Preventing repl from going offline:
 **Open** [Uptimerobot.com](uptimerobot.com) **and add your index site to be uptimemonitor(this will ping the site every 5 minutes to keep the site alive)**
